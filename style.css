@@ -3,5 +3,13 @@ footer {
 }
 
 * {
-    background-color: aqua;
+    background-color: #F29AAE;
+}
+
+h1 {
+    background-color: #7132CA;
+}
+
+* {
+    padding: 0px;
 }
